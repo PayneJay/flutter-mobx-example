@@ -1,0 +1,1 @@
+export 'component.dart' show OrderItemComponent;
